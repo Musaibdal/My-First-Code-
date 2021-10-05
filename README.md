@@ -1,2 +1,2 @@
-# My-First-Code-
+# My-First-Project-
 My first semester Project.
